@@ -4,14 +4,14 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=<---: NoNameKernel For Galaxy M51 :--->
+kernel.string=<---: NoNameKernel For Galaxy A71 :--->
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=m51
-device.name2=M51
+device.name1=a71
+device.name2=A71
 device.name3=
 device.name4=
 device.name5=
