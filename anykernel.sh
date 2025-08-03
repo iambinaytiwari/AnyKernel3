@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=AIOKernel_v1
+kernel.string=ANIK_a71
 kernel.compiler=Prebuilt Clang Toolchain (AOSP)
 kernel.made=iambinaytiwari
 kernel.version=4.14.356
@@ -14,8 +14,8 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=m51
-device.name2=m51
+device.name1=a71
+device.name2=a71
 device.name3=
 device.name4=
 device.name5=
@@ -23,7 +23,6 @@ supported.versions=11.0-16.0
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
-
 
 ### AnyKernel install
 ## boot files attributes
